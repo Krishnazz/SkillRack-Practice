@@ -1,9 +1,7 @@
 package average;
-import java.io.*;
 import java.util.*;
 
-	/* Teaher_allowance.java to determine class cancellation based on student arrival times */	
-	
+	/*Teaher_allowance.java to determine class cancellation based on student arrival times */	
 public class Teaher_allowance {
 
 	public static void main(String[] args) {
