@@ -1,6 +1,5 @@
 package easy;
 import java.util.*;
-import java.io.*;
 public class Commonchar {
 	public static void main(String args[])
 	{
