@@ -1,8 +1,9 @@
-package easy;
+package average;
 import java.io.*;
 import java.util.*;
 public class Corneradd {
 
+	/* This program calculates the sum of the corner elements of a square matrix */
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
 		int n=s.nextInt();

@@ -1,4 +1,4 @@
-package easy;
+package average;
 import java.util.*;
 import java.io.*;
 public class Commonchar {
