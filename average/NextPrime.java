@@ -1,5 +1,4 @@
-package easy;
-import java.io.*;
+package average;
 import java.util.*;
 public class NextPrime {
 
