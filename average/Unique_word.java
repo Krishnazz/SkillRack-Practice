@@ -1,5 +1,3 @@
-package others;
-import java.io.*;
 import java.util.*;
 public class Unique_word {
 
