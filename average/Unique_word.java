@@ -1,3 +1,4 @@
+package average;
 import java.util.*;
 public class Unique_word {
 
