@@ -1,5 +1,4 @@
-package Dailytest;
-import java.io.*;
+package average;
 import java.util.*;
 public class Nearby_country {
 
