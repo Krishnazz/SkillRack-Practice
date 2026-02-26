@@ -2,6 +2,7 @@ package average;
 import java.util.*;
 public class Nearby_country {
 
+	/* 5%0D%0AIndia Australia India India Australia */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner s=new Scanner(System.in);
@@ -9,7 +10,6 @@ public class Nearby_country {
 		String[] str=new String[n];
 		for(int i=0;i<n;i++)
 			str[i]=s.next();
-		int count=0;
 		ArrayList<String> al=new ArrayList<>();
 		for(int i=0;i<str.length;i++)
 			al.add(str[i]);
@@ -27,4 +27,3 @@ public class Nearby_country {
 	}
 
 }
-//5%0D%0AIndia Australia India India Australia
