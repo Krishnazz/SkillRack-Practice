@@ -1,4 +1,4 @@
-package Dailytest;
+package average;
 import java.util.*;
 public class Subset {
 
