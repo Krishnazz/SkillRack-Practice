@@ -1,10 +1,8 @@
 package average;
-import java.io.*;
 import java.util.*;
 public class Sortof {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner s=new Scanner(System.in);
 		int n=s.nextInt();
 		int[] a=new int[n];
@@ -28,7 +26,7 @@ public class Sortof {
 	}
 	public static int rev(int a)
 	{
-		int rev=0,c=a;
+		int rev=0;
 	 while(a!=0)
 	 {
 		
