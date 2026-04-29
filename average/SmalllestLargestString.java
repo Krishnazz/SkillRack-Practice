@@ -1,5 +1,4 @@
 package average;
-import java.util.*;
 public class SmalllestLargestString {
     
     public static void main(String[] args) {
