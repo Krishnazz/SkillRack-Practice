@@ -7,7 +7,7 @@ public class ipv4AddressValidity {
           "266.2.9.34.12"  - Invalid
     */
 	public static void main(String[] args) {
-        Scanner s=new Scanner(System.in);
+     //   Scanner s=new Scanner(System.in);
         String str="127.0.0.1";
         String[] a=str.split("\\.");
         int flag=0;
