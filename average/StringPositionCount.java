@@ -1,5 +1,4 @@
 package average;
-import java.util.*;
 public class StringPositionCount {
 
 	public static void main(String[] args) {
