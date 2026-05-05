@@ -1,5 +1,5 @@
 package average;
-/*ipv4AddressValidity.java to determine the validity of an IPv4 address */
+ /*ipv4AddressValidity.java to determine the validity of an IPv4 address */
 public class ipv4AddressValidity {
 
     /*
