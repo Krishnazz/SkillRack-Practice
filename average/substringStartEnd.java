@@ -1,8 +1,5 @@
 package average;
 
-import java.util.Scanner;
-
-
 public class substringStartEnd {
     public static void main(String[] args) {
     //    String str="Important";
