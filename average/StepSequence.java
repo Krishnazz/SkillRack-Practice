@@ -1,4 +1,3 @@
-
 package average;
 public class StepSequence {
     public static void main(String[] args) {
