@@ -22,9 +22,7 @@ public class Oddlendigonal {
 			System.out.print(a[a.length-i-1]);
 			System.out.println();
 			for(int k=0;k<=i;k++)
-			{
-				System.out.print(" ");
-				
+				{				System.out.print(" ");
 			}
 			
 		}
