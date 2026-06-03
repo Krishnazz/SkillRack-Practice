@@ -3,8 +3,7 @@ import java.io.*;
 import java.util.*;
 public class Fourboxing {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) { 
 		Scanner s=new Scanner(System.in);
 		String str=s.nextLine();
 		int[] freq=new int[26];
@@ -19,7 +18,7 @@ public class Fourboxing {
 				System.out.print(str.charAt(i)+" ");
 			}
 		}
-				
+		s.close();		
 	}
 
 }
