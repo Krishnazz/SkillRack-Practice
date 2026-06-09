@@ -12,7 +12,7 @@ public class DecreaseOrderString {
 //		for(int i=0;i<str.length();i++)
 //			System.out.println(a[i]);
 		Arrays.sort(a);
-		//System.out.println(a);
+		
 		for(int i=0;i<a.length-1;i++)
 		{
 			if(a[i]==a[i+1])
