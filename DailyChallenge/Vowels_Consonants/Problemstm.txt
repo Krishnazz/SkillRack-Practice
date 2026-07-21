@@ -1,0 +1,43 @@
+Problem Statement
+
+Given a string consisting of lowercase English alphabets, replace each character based on the following rules:
+
+If the current character is a vowel (a, e, i, o, u), replace it with the next immediate consonant in the English alphabet.
+If the current character is a consonant, replace it with the next immediate vowel in the English alphabet.
+Treat the alphabet as circular, i.e., after z, continue from a.
+
+Return the transformed string.
+
+Examples
+
+Input
+
+orange
+
+Output
+
+puboif
+Explanation
+Character	Type	Next Required Character
+o	Vowel	p
+r	Consonant	u
+a	Vowel	b
+n	Consonant	o
+g	Consonant	i
+e	Vowel	f
+
+Result: puboif
+
+Constraints
+Input contains only lowercase English letters (a-z).
+1 <= length of string <= 10^5
+Approach
+Traverse each character in the string.
+Determine whether it is a vowel or a consonant.
+Move forward alphabetically until the required character type is found.
+If the search reaches z, wrap around to a.
+Append the found character to the result.
+Time Complexity
+O(n), where n is the length of the input string.
+Space Complexity
+O(n) (for storing the resulting string).
