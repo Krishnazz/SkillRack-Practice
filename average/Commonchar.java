@@ -13,8 +13,6 @@ public class Commonchar {
 		
 		a=isduplicate(a);
 		b=isduplicate(b);
-		//System.out.print(a);
-		//System.out.print(b);
 		if(a.length>=b.length)
 		{
 		for(int i=0;i<a.length;i++)
