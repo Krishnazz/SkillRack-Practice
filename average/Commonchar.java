@@ -9,7 +9,7 @@ public class Commonchar {
 		char a[]=str1.toCharArray();
 		char b[]=str2.toCharArray();
 		int count=0;
-		//char c[]=new char[(a.length+b.length)/2];
+		
 		
 		a=isduplicate(a);
 		b=isduplicate(b);
