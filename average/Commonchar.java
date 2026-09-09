@@ -65,5 +65,6 @@ public class Commonchar {
 			}
 		}
 		return a;
+		
 	}
 }
