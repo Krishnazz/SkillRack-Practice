@@ -8,7 +8,7 @@ public class Decimal_to_Binary {
 		Scanner s=new Scanner(System.in);
 		int decimal=s.nextInt();
 		String binary=Integer.toBinaryString(decimal);
-		System.out.println(binary);
+
 		
 		// Binary to decimal
 		
