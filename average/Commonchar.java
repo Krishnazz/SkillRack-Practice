@@ -10,7 +10,6 @@ public class Commonchar {
 		char b[]=str2.toCharArray();
 		int count=0;
 		
-		
 		a=isduplicate(a);
 		b=isduplicate(b);
 		if(a.length>=b.length)
