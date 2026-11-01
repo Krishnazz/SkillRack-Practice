@@ -6,10 +6,8 @@ public class SecondfromFirst {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner s=new Scanner(System.in);
-		String str11=s.nextLine();
-		String str22=s.nextLine();
-		String str1=str11.toLowerCase();
-		String str2=str22.toLowerCase();
+		String str1=s.nextLine().toLowerCase();
+		String str2=s.nextLine().toLowerCase();
 		int count=0;
 		char[] a=str1.toCharArray();
 		for(int i=0;i<str2.length();i++) {
