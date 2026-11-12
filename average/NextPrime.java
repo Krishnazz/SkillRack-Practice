@@ -11,7 +11,6 @@ public class NextPrime {
 		  if(n%i==0)
 		  {
 		     count++;
-		    // break;
 		  }
 		}
 	if(count==2)
