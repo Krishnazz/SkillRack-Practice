@@ -4,7 +4,6 @@ import java.util.*;
 public class String_n_times {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner s=new Scanner(System.in);
 		String str1=s.nextLine().toLowerCase();
 		String str2=s.nextLine().toLowerCase();
