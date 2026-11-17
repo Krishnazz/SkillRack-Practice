@@ -1,4 +1,3 @@
-package dailyChellange;
 import java.io.*;
 import java.util.*;
 public class String_n_times {
