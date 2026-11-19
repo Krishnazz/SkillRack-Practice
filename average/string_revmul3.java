@@ -15,7 +15,7 @@ public class string_revmul3 {
 			if((i+1)%3==0)
 			   System.out.print(sb.charAt(i));
 		}
-		                                                       /// passed******
+		// passed******
 	}
 
 }
