@@ -15,7 +15,7 @@ public class Max_abs_diff {
 		{
 			if(Math.abs(a[i]-a[i-1])>max)
 				max=Math.abs(a[i]-a[i-1]);
-		}															//
+		}															
 		System.out.print(max);
 	}
 
